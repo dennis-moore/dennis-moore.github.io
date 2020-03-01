@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/karlas-website/static/css/main.71bd5e9e.chunk.css",
+    "main.js": "/karlas-website/static/js/main.37c07714.chunk.js",
+    "main.js.map": "/karlas-website/static/js/main.37c07714.chunk.js.map",
+    "runtime-main.js": "/karlas-website/static/js/runtime-main.bea712c2.js",
+    "runtime-main.js.map": "/karlas-website/static/js/runtime-main.bea712c2.js.map",
+    "static/js/2.6a196c69.chunk.js": "/karlas-website/static/js/2.6a196c69.chunk.js",
+    "static/js/2.6a196c69.chunk.js.map": "/karlas-website/static/js/2.6a196c69.chunk.js.map",
+    "index.html": "/karlas-website/index.html",
+    "precache-manifest.2dee80e6396bf0bf038fd15052832904.js": "/karlas-website/precache-manifest.2dee80e6396bf0bf038fd15052832904.js",
+    "service-worker.js": "/karlas-website/service-worker.js",
+    "static/css/main.71bd5e9e.chunk.css.map": "/karlas-website/static/css/main.71bd5e9e.chunk.css.map",
+    "static/js/2.6a196c69.chunk.js.LICENSE": "/karlas-website/static/js/2.6a196c69.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bea712c2.js",
+    "static/js/2.6a196c69.chunk.js",
+    "static/css/main.71bd5e9e.chunk.css",
+    "static/js/main.37c07714.chunk.js"
+  ]
+}
